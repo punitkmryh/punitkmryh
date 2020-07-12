@@ -5,9 +5,7 @@
   <samp> I'm a software developer from Bangalore, IND. Love contributing to open souce. Some technologies I enjoy working with include NodeJS, ReactJS and designing UI/UX samples and prototypes on Figma.
   </samp>
   <br>
-  <br>
-    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="37px">
-  <br>
+  
 </p>
 
 
