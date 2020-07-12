@@ -1,7 +1,7 @@
-### Hi there, I'm Punit 👋 🧑🏻‍💻
+<h2 aligh="centre">Hi there, I'm Punit 👋 🧑🏻‍💻</h2>
 
 <p align="center">
-  <img src="https://github.com/punitkmryh/punitkmryh/blob/master/avataaars%20copy.png" width="188px"><br>
+  <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/avataaars%20copy.png" width="188px"><br><br>
   <samp> I'm a software developer from Bangalore, IND. Love contributing to open souce. Some technologies I enjoy working with include NodeJS, ReactJS and designing UI/UX samples and prototypes on Figma.
   </samp>
   <br>
