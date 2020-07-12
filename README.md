@@ -48,8 +48,8 @@
 
 <hr>
 <p align='right'>
-<h4 align='center'>💬     Sometimes I like to write things here...</h4>
-  <a href="https://medium.com/@punitkmryh"><img align='center' src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<h4 >💬     Sometimes I like to write things here...</h4>
+  <a href="https://medium.com/@punitkmryh"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
