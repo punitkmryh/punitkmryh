@@ -1,4 +1,4 @@
-<h2 align="centre">Hi there, I'm Punit 👋 🧑🏻‍💻</h2>
+<h2 align='center'> Hi there, I'm Punit 👋 🧑🏻‍💻 </h2>
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/avataaars%20copy.png" width="188px"><br><br>
