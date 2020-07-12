@@ -26,7 +26,7 @@
 </p>
 
 <hr>
-<h4> 🔭   I’m currently working with ...</h4>
+<h4 align='center'> 🔭   I’m currently working with ...</h4>
 
 
 <h5 align='center'> Frontend and Others</h5>
