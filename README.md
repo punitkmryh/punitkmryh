@@ -45,6 +45,7 @@
   <img align='center' src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align='center' src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align='center' src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img align='center' src="https://img.shields.io/badge/graphQL%20-%231572B6.svg?&style=for-the-badge&logo=graphQL&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
