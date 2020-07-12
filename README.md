@@ -11,11 +11,9 @@
 
 
 ## Find me around the web 🌎:
-<h1 align='center'> Hi there 👋, I'm Stefany  👩‍💻 </h1>
-
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc"></a>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=punitkmryh.punitkmryh"></a>
 </p>
 
 
@@ -40,7 +38,7 @@
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-
+<p><img src="https://forthebadge.com/images/badges/made-with-python.svg"</p>
 <h5>Educational Projects</h5>
 <p >
   <img src="https://img.shields.io/badge/scratch%20-%234d97ff.svg?&style=for-the-badge&logo=scratch&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/inkscape%20-%23000000.svg?&style=for-the-badge&logo=inkscape&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -64,13 +62,6 @@
 <hr>
 
 <br>
-<p align="right">
-  <a href="https://open.spotify.com/playlist/2w8GYqYdH6ve3g0nGcJcgE?si=7bCl8yynR2Saz4VPR6mDXQ"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="steamcommunity.com/id/SteVasc/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <h5 align="right">🎮 To have fun and spend time...</h5>
-</p>
-
-
 
 
 <!--
