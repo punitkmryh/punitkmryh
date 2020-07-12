@@ -29,8 +29,8 @@
 <h4> 🔭   I’m currently working with ...</h4>
 
 
-<h5> Frontend and Others</h5>
-<p >
+<h5 align='center'> Frontend and Others</h5>
+<p align='center'>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python3%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
@@ -39,14 +39,14 @@
 </p>
 <hr>
 
-<h4>🌱    I'm currently learning...</h4>
-<p >
+<h4 align='center'> 🌱    I'm currently learning...</h4>
+<p align='center'>
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
 <p align='right'>
-<h4>💬     Sometimes I like to write things here...</h4>
+<h4 align='center'>💬     Sometimes I like to write things here...</h4>
   <a href="https://medium.com/@punitkmryh"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
