@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/avataaars%20copy.png" width="188px"><br><br>
-  <samp> I'm a software developer from Bangalore, IND. Love contributing to open souce. Some technologies I enjoy working with include NodeJS, ReactJS and designing UI/UX samples and prototypes on Figma.
+  <samp> I'm a software developer from Bangalore, IND. Love contributing to open souce and Blogging, sharing my insights of my learning. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, other JS frameworks and designing UI/UX samples and prototypes on Figma.
   </samp>
   <br>
   
@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/python3%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HandleBarsJS%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+
 </p>
 <hr>
 
