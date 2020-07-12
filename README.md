@@ -1,5 +1,5 @@
 ### Hi there, I'm Punit 👋 🧑🏻‍💻
-<p> <img src="https://github.com/punitkmryh/punitkmryh/blob/master/avataaars%20copy.png" width="188px">
+<p align="centre"> <img src="https://github.com/punitkmryh/punitkmryh/blob/master/avataaars%20copy.png" width="188px">
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="37px">
   <br><br>
