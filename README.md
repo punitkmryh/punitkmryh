@@ -10,7 +10,7 @@
 
 
 
-<p  align='center'>Find me around the web 🌎. </p.>
+<h3  align='center'>Find me around the web 🌎. </h3>
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=punitkmryh.punitkmryh"></a>
