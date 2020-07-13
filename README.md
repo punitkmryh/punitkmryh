@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HandleBarsJS%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-
 </p>
 <hr>
 
@@ -46,6 +45,8 @@
   <img align='center' src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align='center' src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align='center' src="https://img.shields.io/badge/graphQL%20-%231572B6.svg?&style=for-the-badge&logo=graphQL&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+
 </p>
 
 <hr>
