@@ -1,8 +1,8 @@
 <h2 align='center'> Hi there, I'm Punit 👋 🧑🏻‍💻 </h2>
 
 <p align="center">
-  <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/avataaars%20copy.png" width="188px"><br><br>
-  <samp> I'm a software developer from Bangalore, IND. Wanna be a pro in MERN Stack developer and Passioniate towards learning and sharing my knowledge and my insights of learning with others through Blogging .. Love contributing to open souce. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, other JS frameworks and designing minimalistic UI/UX samples and prototypes on Figma.
+  <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="588px"><br><br>
+  <samp> I'm a software developer from Bangalore, IND. Wanna be a MERN Stack developer, a pro in Backend. Passioniate towards learning and sharing my knowledge and my insights of learning with others through Blogging .. Love contributing to open souce. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, other JS frameworks and designing minimalistic UI/UX samples and prototypes on Figma.
   </samp>
   <br>
   
