@@ -56,7 +56,6 @@
   <a href="https://dev.to/punitkmryh_93"><img src="https://img.shields.io/badge/DEV.io-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
 
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 <!--
