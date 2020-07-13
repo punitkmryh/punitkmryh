@@ -40,17 +40,18 @@
 <hr>
 
 <h4 align='center'> 🌱    I'm currently learning...</h4>
+<br>
 <p align='center'>
   <img align='center' src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align='center' src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align='center' src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align='center' src="https://img.shields.io/badge/graphQL%20-%231572B6.svg?&style=for-the-badge&logo=graphQL&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align='center' src="https://img.shields.io/badge/mongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
-
 </p>
 
 <hr>
 <h4 align='center'  >💬     Sometimes I like to write things here...</h4>
+<br>
 <p align='center' align='right'>
   <a href="https://medium.com/@punitkmr"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
