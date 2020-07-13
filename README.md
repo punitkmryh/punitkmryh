@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/avataaars%20copy.png" width="188px"><br><br>
-  <samp> I'm a software developer from Bangalore, IND.  I have a passion for learning and sharing my knowledge with others a public as possible through Blogging, sharing my insights of learning.. Love contributing to open souce. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, other JS frameworks and designing minimalistic UI/UX samples and prototypes on Figma.
+  <samp> I'm a software developer from Bangalore, IND. Wanna be a pro in MERN Stack developer and Passioniate towards learning and sharing my knowledge and my insights of learning with others through Blogging .. Love contributing to open souce. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, other JS frameworks and designing minimalistic UI/UX samples and prototypes on Figma.
   </samp>
   <br>
   
