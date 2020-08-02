@@ -70,7 +70,7 @@
 
 <br/>
 
-[![Punit's github stats](https://github-readme-stats.vercel.app/api?username=punitkmryh)](https://github.com/punitkmryh/github-readme-stats)
+[![Punit's github stats](https://github-readme-stats.vercel.app/api?username=punitkmryh)](https://github.com/punitkmryh)
 
 
 
