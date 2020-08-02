@@ -57,7 +57,7 @@
 </p>
 <br/>
 
-### Latest Blog posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Join operator of Node.js Mongoose](https://medium.com/gist-for-js/implementing-node-js-mongooses-model-populate-method-45233806724f?source=rss-59bf5649cfb3------2)
 - [Login Middlewares for API Authentication](https://medium.com/weekly-webtips/login-middlewares-for-api-authentication-5bc3032a2f9e?source=rss-59bf5649cfb3------2)
