@@ -56,7 +56,7 @@
   <a href="https://dev.to/punitkmryh_93"><img src="https://img.shields.io/badge/DEV.io-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <br/>
-
+---
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Join operator of Node.js Mongoose](https://medium.com/gist-for-js/implementing-node-js-mongooses-model-populate-method-45233806724f?source=rss-59bf5649cfb3------2)
@@ -65,6 +65,14 @@
 - [Handling Validation Errors in Node.js](https://medium.com/weekly-webtips/handling-validation-errors-in-node-js-67df90082bdc?source=rss-59bf5649cfb3------2)
 - [Handling  Promise Chaining](https://medium.com/gist-for-js/what-is-promise-chaining-8cb27dd6d2ed?source=rss-59bf5649cfb3------2)
 <!-- BLOG-POST-LIST:END -->
+<br/>
+---
+[![Punit's github stats](https://github-readme-stats.vercel.app/api?username=punitkmryh)](https://github.com/punitkmryh/github-readme-stats)
+<br/>
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punitkmryh&layout=compact)](https://github.com/punitkmryh/github-readme-stats)
+
+
 
 <!--<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
 
