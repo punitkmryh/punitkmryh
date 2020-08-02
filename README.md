@@ -55,7 +55,7 @@
   <a href="https://medium.com/@punitkmr"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/punitkmryh_93"><img src="https://img.shields.io/badge/DEV.io-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-# Latest Blog posts
+#Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
