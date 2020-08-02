@@ -25,10 +25,10 @@
 </p>
 
 <hr>
-<h4 align='center'> 🔭   I’m currently working with ...</h4>
+<h3 align='center'> 🔭   I’m currently working with ...</h4>
 
 
-<h5 align='center'> Frontend and Others</h5>
+<h4 align='center'> Frontend and Others</h5>
 <p align='center'>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -39,7 +39,7 @@
 </p>
 <hr>
 
-<h4 align='center'> 🌱    I'm currently learning...</h4>
+<h3 align='center'> 🌱    I'm currently learning...</h4>
 <br>
 <p align='center'>
   <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@
 </p>
 
 <hr>
-<h4 align='center'  >💬   Sometimes I like to write things here...</h4>
+<h3 align='center'  >💬   Sometimes I like to write things here...</h4>
 <br>
 <p align='center' align='right'>
   <a href="https://medium.com/@punitkmr"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
