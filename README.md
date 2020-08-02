@@ -60,7 +60,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+[<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />]
 <!--
 **punitkmryh/punitkmryh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
