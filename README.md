@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there, I'm Punit 👋 🧑🏻‍💻 <a href="https://punitkmryh.netlify.app">Pkmr</a>h2>
+<h2 align='center'> Hi there, <a href="https://punitkmryh.netlify.app">I'm Punit 👋 🧑🏻‍💻 </a></h2>
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
