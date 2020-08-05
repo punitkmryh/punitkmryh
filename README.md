@@ -43,9 +43,9 @@
 <br>
 <p align='center'>
   <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Vue.js%20-%23339903.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Jest.js%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/Vue%20-%23339903.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/Node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/Jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/MongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
 </p>
 
