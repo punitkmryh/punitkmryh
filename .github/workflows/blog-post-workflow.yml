@@ -19,5 +19,5 @@ jobs:
           feed_list: "https://medium.com/feed/@punitkmr"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: BLOG
-          feed_list: "https://punitharsoor.hashnode.dev/sitemap.xml"
+          comment_tag_name: MY-BLOG
+          feed_list: "https://punitharsoor.hashnode.dev/rss.xml"
