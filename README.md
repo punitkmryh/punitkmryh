@@ -58,20 +58,24 @@
 </p>
 <hr>
 
-### 📓 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Join operator of Node.js Mongoose](https://medium.com/gist-for-js/implementing-node-js-mongooses-model-populate-method-45233806724f?source=rss-59bf5649cfb3------2)
-- [Login Middlewares for API Authentication](https://medium.com/weekly-webtips/login-middlewares-for-api-authentication-5bc3032a2f9e?source=rss-59bf5649cfb3------2)
+
+### 📔 My Blog Post
+<!-- MY-BLOG:START -->
+
+<!-- MY-BLOG:END -->
+
+<hr>
+
+### 📓 Latest Medium Posts
+<!-- MEDIUM:START -->
+- [Join operator of Node.js Mongoose](https://medium.com/gist-for-js/implementing-node-js-mongooses-model-populate-method-45233806724f?source=rss-59bf5649cfb3------2)- [Login Middlewares for API Authentication](https://medium.com/weekly-webtips/login-middlewares-for-api-authentication-5bc3032a2f9e?source=rss-59bf5649cfb3------2)
 - [Imperativeness of Mongoose Middleware aka Pre/Post-hooks in API’s Authentication](https://medium.com/swlh/need-of-mongoose-middleware-in-authentication-3ddc70a993f?source=rss-59bf5649cfb3------2)
 - [Handling Validation Errors in Node.js](https://medium.com/weekly-webtips/handling-validation-errors-in-node-js-67df90082bdc?source=rss-59bf5649cfb3------2)
 - [Handling  Promise Chaining](https://medium.com/gist-for-js/what-is-promise-chaining-8cb27dd6d2ed?source=rss-59bf5649cfb3------2)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- HASHNODE-POST-LIST:START -->
-
-<!-- HASHNODE-POST-LIST:END -->
+<!-- MEDIUM:END -->
 
 <hr>
+
 
 [![Punit's github stats](https://github-readme-stats.vercel.app/api?username=punitkmryh)](https://github.com/punitkmryh)
 
