@@ -59,7 +59,7 @@
   <a href="https://dev.to/punitkmryh_93"><img src="https://img.shields.io/badge/DEV.io-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://punitharsoor.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%23D14836.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<hr>
+
 
 ## 📝 Latest Blog Posts
 These are my latest posts on [Medium](https://medium.com/@punitkmr), [my blog](https://punitharsoor.hashnode.dev) and [Dev.to](https://dev.to/punitkmryh_93):
