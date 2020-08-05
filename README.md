@@ -62,7 +62,7 @@
 <hr>
 
 ## 📝 Latest Blog Posts
-These are my latest posts on [Medium=https://medium.com/@punitkmr), [my blog](https://punitharsoor.hashnode.dev) and [Dev.to](https://dev.to/punitkmryh_93):
+These are my latest posts on [Medium](https://medium.com/@punitkmr), [my blog](https://punitharsoor.hashnode.dev) and [Dev.to](https://dev.to/punitkmryh_93):
 ### 📔 My Blog Post
 <!-- MY-BLOG:START -->
 - [VueJS Essential CheatSheet](https://punitharsoor.hashnode.dev/vuejs-essential-cheatsheet-ckdhkuye90099yvs1eeyn6wik)
