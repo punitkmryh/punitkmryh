@@ -1,8 +1,8 @@
-<h2 align='center'> Hi over there, I'm <a href="https://punitkmryh.netlify.app">Punit!</a>👋 🧑🏻‍💻</h2>
+<h2 align='center'> Hi over there 🙋🏻‍♂️, I'm <a href="https://punitkmryh.netlify.app">Punit!</a>👋 🧑🏻‍💻</h2>
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
-  <samp> I'm a Fresher pursuing Masters in CSE from UVCE Bangalore, IND. Passionate in developing MERN Stack sites. I am looking forward to work, learn on both frontend and backend. A Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, other JS frameworks and UI/UX samples and prototypes using Figma and 💎 sketch.
+  <samp> I'm a Fresher pursuing Masters in CSE from UVCE Bangalore, IND. Passionate in developing MERN || MEVN Stack sites. I am looking forward to work, learn on both frontend and backend. A Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, other JS frameworks and UI/UX samples and prototypes using Figma and 💎 sketch.
   </samp>
   <br>
   
