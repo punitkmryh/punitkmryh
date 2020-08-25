@@ -66,6 +66,7 @@
 These are my latest posts on [Medium](https://medium.com/@punitkmr), [my blog](https://punitharsoor.hashnode.dev) and [Dev.to](https://dev.to/punitkmryh_93):
 ### 📔 My Blog Post
 <!-- MY-BLOG:START -->
+- [A Beginner’s Guide to Convolution NeuNet (CNN)](https://punitharsoor.hashnode.dev/a-beginners-guide-to-convolution-neunet-cnn-ckea7q6cn00j9wks1bacog0ci)
 - [Join operator of Node.js Mongoose](https://punitharsoor.hashnode.dev/join-operator-of-nodejs-mongoose-cke6r6xjz00nhxms1frgj6jav)
 - [Getting Started With ReactJS+Babel+webpack](https://punitharsoor.hashnode.dev/getting-started-with-reactjsbabelwebpack-cke1i678a00r1vls1eury1hmy)
 - [VueJS Essential CheatSheet](https://punitharsoor.hashnode.dev/vuejs-essential-cheatsheet-ckdhkuye90099yvs1eeyn6wik)
