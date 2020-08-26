@@ -63,7 +63,7 @@
 
 
 ## 📝 Latest Blog Posts
-These are my latest posts on [Medium](https://medium.com/@punitkmr), [my blog](https://punitharsoor.hashnode.dev) and [Dev.to](https://dev.to/punitkmryh_93):
+These are my latest posts on [Medium](https://medium.com/@punitkmr), [My blog](https://punitharsoor.hashnode.dev) and [Dev.to](https://dev.to/punitkmryh_93):
 ### 📔 My Blog Post
 <!-- MY-BLOG:START -->
 - [A Beginner’s Guide to Convolution NeuNet (CNN)](https://punitharsoor.hashnode.dev/a-beginners-guide-to-convolution-neunet-cnn-ckea7q6cn00j9wks1bacog0ci)
