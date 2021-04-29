@@ -59,7 +59,7 @@
 <p align='center' align='right'>
   <a href="https://medium.com/@punitkmr"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/punitkmryh_93"><img src="https://img.shields.io/badge/DEV.io-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://punitharsoor.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%23D14836.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://punitharsoor.hashnod.dev/"><img src="https://img.shields.io/badge/hashnode-%23D14836.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -67,7 +67,7 @@
 These are my latest posts on [Medium](https://medium.com/@punitkmr), [My blog](https://punitharsoor.hashnode.dev) and [Dev.to](https://dev.to/punitkmryh_93):
 ### 📔 My Blog Post
 <!-- MY-BLOG:START -->
-- [A Beginner’s Guide to Convolution NeuNet (CNN)](https://punitharsoor.hashnode.dev/a-beginners-guide-to-convolution-neunet-cnn-ckea7q6cn00j9wks1bacog0ci)
+- [A Beginner’s Guide to Convolution NeuNet (CNN)](https://punitharsoor.hashnod.dev/a-beginners-guide-to-convolution-neunet-cnn-ckea7q6cn00j9wks1bacog0ci)
 - [Join operator of Node.js Mongoose](https://punitharsoor.hashnode.dev/join-operator-of-nodejs-mongoose-cke6r6xjz00nhxms1frgj6jav)
 - [Getting Started With ReactJS+Babel+webpack](https://punitharsoor.hashnode.dev/getting-started-with-reactjsbabelwebpack-cke1i678a00r1vls1eury1hmy)
 - [VueJS Essential CheatSheet](https://punitharsoor.hashnode.dev/vuejs-essential-cheatsheet-ckdhkuye90099yvs1eeyn6wik)
