@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
-  <samp> I'm a Avid learner, tinkerer and educator on Data science using python, Web developement and alumini from University Visvesvaraya College of Engineering (UVCE) Bangalore, IND. I love what I do and I aspire to create new ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense. And Love sharing my knowledge, insights of learning with others through Blogging and other source. Some of the technologies I enjoy working with include Python, NodeJS, ReactJS, other JS frameworks and UI/UX.
+  <samp> I'm a Avid learner, tinkerer and educator on Data science using python, Web developement and alumini from University Visvesvaraya College of Engineering (UVCE) Bangalore, IND. I love what I do and I aspire to create new ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense. And Love sharing my knowledge, insights of learning with others through Blogging and other source. Some of the technologies I enjoy working with include Python, other Data science tools and packages, NodeJS, ReactJS, other JS frameworks and UI/UX.
   </samp>
   <br>
   
