@@ -23,7 +23,7 @@
 <a href="https://www.hackerrank.com/pkmryh_kata"><img src="https://img.shields.io/badge/HackerRank%20-%23339903.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/punityh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.freecodecamp.org/pkmr"><img src="https://img.shields.io/badge/freecodecamp-%2312100E.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:punitkmryh95@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:punitkmr95@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
